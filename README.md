@@ -158,7 +158,7 @@ HTTP Status: 400 Bad Request
 ## Resources
 
 ### Plural nouns
-Use the plural nounce for collection resource names. It makes it easy and predictable for developers writing an API using consistent names and distinguishes
+Use the plural nouns for collection resource names. It makes it easy and predictable for developers writing an API using consistent names and distinguishes
 between collections and singletons.
 
 ### Use CRUD
